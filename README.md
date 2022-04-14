@@ -1,6 +1,17 @@
 ## System Design
     
-System Design Consideration
+#### System Design stages
+* Understanding the problem
+* Collect the requirements
+* Scope
+* Listing technical requirements
+* Limitations
+* High level design
+* Implementation
+
+    
+#### System Design Consideration
+* Keep an eye on possible modularization
 * Reduce resource requirements
   * reduce app install size
   * Reduce app upgrade bandwidth
