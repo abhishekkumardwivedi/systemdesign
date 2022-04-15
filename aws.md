@@ -8,7 +8,14 @@ EC2: Amazon elastic compute cloud
 * EC2 Instance types:
   * Such as for high performance data
   * Memory optimize
-  * Compute optimize    
+  * Compute optimize 
+
+### Overall
+
+![design](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/05/Solution-Architecture.jpg?strip=all&lossy=1&ssl=1)
+    
+    
+    
 ### Availablity Zone
 ![Availablity Zone](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/old4pJtvN7HvddhL_zBL1ijNGsMMu3-4j.png?width=128)
     
