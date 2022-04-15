@@ -67,3 +67,21 @@ EC2: Amazon elastic compute cloud
 ### Identity and access management
 
 ![IAM](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/crtCMJS9pAjmecS5_G6mCtOEHNBDNNKV4.png)
+    
+    
+### Attack on server
+![hacker](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/FE0B4YmzsY1tXwRd_y9LA-qvCGRPP_4HE.png)
+    
+    
+### Cloud Watch(monitor cloud analytics)
+![cloud watch](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/BrGY0YYp0nrvDKsy_rLfuExSsSpuXOVqf.png)
+    
+    
+### Trusted advisor dashboard(health of infra)
+![trusted advisor](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/GuvmzlxKCWw8Ltuo_2gGWhu3Np9FWdzHm.jpg)
+    
+    
+### Overall considerations
+![overall considerations](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/JAG1LhejYvICxV_N_GfjpKo2tSEh9ACeE.png)
+    
+    
