@@ -16,6 +16,9 @@ EC2: Amazon elastic compute cloud
     
     
     
+### Testing framework
+Additionally, on above infra, there will be the need for testing infra, such as based on EC2 instance which can stress test the server by sending millions of requests and test the fault tolarance of the system.
+    
 ### Availablity Zone
 ![Availablity Zone](https://assets.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1650049200/CarXEhGyjdn1O4X14hG6Dg/tincan/31d9c0cca79c54bdceaf3e938fd424e97c98c7e8/assets/old4pJtvN7HvddhL_zBL1ijNGsMMu3-4j.png?width=128)
     
