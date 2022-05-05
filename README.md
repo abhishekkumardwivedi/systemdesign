@@ -9,7 +9,22 @@
 * High level design
 * Implementation
 
-    
+#### System Design fundamentals
+* Vertical scaling
+  * to extend the use of available resources
+* Horizontal scaling
+  * to have system with more features
+* Micro-services
+  * losely couppled services independently mantained and indep. testable
+* Distributed system
+  * To serve from different network so one failure is no were imacting the other one
+* Load balancing
+  * once having distributed system, they can be load balanced so to effectively utilize distributed resources
+* Error logging and matrix
+  * to monitor and fix the alarms and issues in general such as overshooting to resource capacity
+* Decoupled system
+  * so change in any one would not affect the other one 
+   
 #### System Design Consideration
 * Keep an eye on possible modularization
 * Reduce resource requirements
