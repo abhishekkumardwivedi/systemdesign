@@ -2,12 +2,19 @@
     
 #### System Design stages
 * Understanding the problem
+  * set the objective, make it clear and don't deviate throughout
 * Collect the requirements
+  * be detailed oriented keep asking for every nook and cranny, be crystal clear.
 * Scope
+  * define what you will ultimately building for such as setting up resource capacity based on requirement collection
+    such as volume, etc.
 * Listing technical requirements
+  * What all are ultimately required, ask for numbers so to design accordingly
 * Limitations
 * High level design
+  * start desiging based on above notes taken
 * Implementation
+  * go into detailed design, such as which database, which service, peak hour details, consider different scenario walkthrough
 
 #### System Design fundamentals
 * Vertical scaling
