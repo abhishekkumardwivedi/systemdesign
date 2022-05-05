@@ -18,7 +18,7 @@
 
 #### System Design fundamentals
 * Vertical scaling
-  * to extend the use of available resources
+  * to extend the use of available resources, usually temporary, so keep this buffer beforehand in each system, don't exhaust.
 * Horizontal scaling
   * to have system with more features
 * Micro-services
@@ -54,3 +54,6 @@
   * Other interface dependency
 * Access and system requirements
   * Permissions (root permission for file access)
+
+#### Ref    
+https://medium.com/elevate-salesforce/system-design-in-a-nutshell-f920fc8382c7
