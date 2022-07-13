@@ -1,11 +1,10 @@
 ### Scenarios
 
-* Facebook messanger or Whatsapp
-* Instagram
-* Youtube or Netflix
-* Dropbox, google drive or google photos
-* Facebook, twitter or instagram
-* Uber
+* ```Messaging``` : Facebook messanger or Whatsapp
+* ```Media Streaming``` : Youtube or Netflix
+* ```File Sharing``` : Dropbox, google drive or google photos
+* ```Social Networking``` : Facebook, twitter or instagram
+* Others: Uber
 
 ### How to crack
 * [Interview questions](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
