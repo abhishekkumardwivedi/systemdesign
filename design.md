@@ -12,6 +12,8 @@
 * [Interview day prepration](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/?ref=lbp)
 
 ### Design backend nosql DB:
+To work with backend analytics, we might use the services from AWS or we can have inhouse servers as this is not for the end user but for organization to use data for development and business decisions. So, in that case, the domain could be taken from AWS, and ultimately data could be routed to in campus servers. Or if we want to keep it simple, let it be hosted in AWS server itself. We would need fluentd sitting in parlal with web microservice, and listening the clickstream, event data and logs and building buffer and writing to nosql db. This is for performance improvements.    
+
 * Use [fluentd](https://stackoverflow.com/a/13428282/6146338) for:
   * Event data
   * clickstream
@@ -19,6 +21,7 @@
 * Save the data in MongoDB kind of NoSQL db
 * Use user onboarding services with https protocol based on REST API
   * Save into SQL DB
+
 * For social media interaction
   * Implement relational DB schema, high performance for related DB in social media
 * Using S3 like simple storage for media contents
