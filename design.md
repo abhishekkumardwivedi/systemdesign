@@ -12,7 +12,7 @@
 * [Interview day prepration](https://www.geeksforgeeks.org/5-common-system-design-concepts-for-interview-preparation/?ref=lbp)
 
 ### Design backend nosql DB:
-* Use fluentd for:
+* Use [fluentd](https://stackoverflow.com/a/13428282/6146338) for:
   * Event data
   * clickstream
   * application logging
