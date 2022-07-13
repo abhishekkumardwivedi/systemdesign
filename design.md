@@ -1,7 +1,8 @@
 ### Scenarios
 
+[System Design](https://medium.com/@systemdesign)
 * ```Messaging``` : Facebook messanger or Whatsapp
-* ```Media Streaming``` : Youtube or Netflix
+* ```Media Streaming``` : [Youtube or Netflix](https://medium.com/double-pointer/system-design-interview-video-streaming-service-e-g-netflix-or-youtube-design-adc2402e54a1)
 * ```File Sharing``` : Dropbox, google drive or google photos
 * ```Social Networking``` : Facebook, twitter or instagram
 * Others: Uber
