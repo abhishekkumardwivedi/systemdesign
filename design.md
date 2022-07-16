@@ -6,7 +6,7 @@
 * ```File Sharing``` :
   * [Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc) :
       * [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions): Accuracy, consistancy, isolation, durablity
-      * microservices: blocksyncService(rsync), metadataService(https/REST), notificationService(websocket), chunkService(rsync)
+      * microservices: blocksyncService(rsync), metadataService(https/REST)+sql-db, notificationService(websocket), chunkService(rsync)
       * LoadBalancer
       * Availiblity
       * DB Cache
