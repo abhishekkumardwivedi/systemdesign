@@ -9,8 +9,9 @@
       * microservices: blocksyncService(rsync), metadataService(https/REST)+sql-db, notificationService(websocket), chunkService(rsync)
       * LoadBalancer
       * Availiblity
+      * security
       * DB Cache
-      * Analytics Service
+      * Analytics Service: service load, no. of requests from channels/sec, bandwidth at user end, 
       * Alarm service
       * Authentication policy
       * Not necessary to be very real time, so we can save some infrastructure cost here
@@ -18,6 +19,9 @@
 * ```Social Networking``` : Facebook, twitter or instagram
 * Others: Uber
 
+### common things
+* Design to interface for smoke test automations and mock server interation in labs
+* Stress test simulation system
 ### How to crack
 * [Interview questions](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
 * [how to do](https://www.geeksforgeeks.org/how-to-crack-system-design-round-in-interviews/?ref=lbp)
