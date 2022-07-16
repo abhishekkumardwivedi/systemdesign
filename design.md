@@ -3,7 +3,7 @@
 [System Design](https://medium.com/@systemdesign)
 * ```Messaging``` : Facebook messanger or Whatsapp
 * ```Media Streaming``` : [Youtube or Netflix](https://medium.com/double-pointer/system-design-interview-video-streaming-service-e-g-netflix-or-youtube-design-adc2402e54a1)
-* ```File Sharing```:(png diagram)[https://systemdesignprimer.com/assets/images/dropbox-system-design.png]:
+* ```File Sharing```:[png diagram](https://systemdesignprimer.com/assets/images/dropbox-system-design.png):
   * [Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc) :
       * [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions): Accuracy, consistancy, isolation, durablity
       * microservices: blocksyncService(rsync), metadataService(https/REST)+sql-db, notificationService(websocket), chunkService(rsync)
