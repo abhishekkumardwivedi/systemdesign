@@ -13,6 +13,7 @@
       * Analytics Service
       * Alarm service
       * Authentication policy
+      * Not necessary to be very real time, so we can save some infrastructure cost here
   * google drive or google photos
 * ```Social Networking``` : Facebook, twitter or instagram
 * Others: Uber
